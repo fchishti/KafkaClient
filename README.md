@@ -93,6 +93,5 @@ public class Consumer {
 }
 ```
 
-## Future work
-I plan to add more custom serializers and deserializers for XML objects and expand the client for more robust utilization. 
-This repo is a work in progress and contributions will be enabled soon so please stay tuned!
+## Contributing Guidelines
+All contributions are more than welcomed. Contributers may close an issue, fix a bug (reported or not reported), add new design blocks, improve the existing code, add new feature, and so on. In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
